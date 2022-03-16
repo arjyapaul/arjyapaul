@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying in Heritage Institute of Technology
-- 🌱 I’m currently learning Django, react & DSA
+- 🌱 I’m currently learning nodeJS, react & DSA
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for web development internship
 - 📫 How to reach me: https://www.linkedin.com/in/arjya-paul-690169191/
